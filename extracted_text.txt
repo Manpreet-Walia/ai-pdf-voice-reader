@@ -1,0 +1,61 @@
+Manpreet Walia
+ +91 9213958342
+—
+# manpreetwalia.595@gmail.com
+—
+ï LinkedIn
+—
+§ GitHub
+Education
+Graphic Era (Deemed to be) University
+2022 – 2026
+B.Tech in Computer Science & Engineering
+CPI: 8.50
+DPSG, C.B.S.E
+2020 – 2021
+Intermediate / +2
+Percentage: 79%
+DPSG, C.B.S.E
+2019 – 2020
+Matriculation
+Percentage: 92%
+Work Experience
+IOT Software Intern
+Aug’25 – Oct’25
+Grid Sphere
+– Developed software modules enabling reliable IoT communication in low-connectivity regions through the Zigbee
+protocol.
+– Built a forest fire detection and alerting system by designing sensor data pipelines and optimizing transmission
+algorithms for efficiency and scalability.
+Projects
+AgroTech Rover for Smart Farming — Oct’25 – Present
+– Developed an autonomous ROS-based rover with modular software architecture integrating real-time sensor data
+streams.
+– Implemented OpenCV and TensorFlow Lite for on-device pest and disease detection with cloud logging via
+Supabase.
+– Automated irrigation, pest control, and GPS-based live telemetry.
+IoT-Based Integrated System — Jan’25 – March’25
+– Engineered an IoT-based system integrating smart parking, automated irrigation, and environmental safety monitoring
+using ESP32.
+– Developed a mobile app interface for real-time monitoring, control, and alert notifications.
+– Implemented real-time data pipelines to optimize resource usage and support autonomous decision-making.
+– Tech: Python, ESP32, IoT Sensors, Mobile App, Wi-Fi, Automation
+Smart File Compressor — Nov’24 – Jan’25
+– Developed a Python Tkinter GUI application for efficient file compression and decompression using GZIP and ZLIB.
+– Integrated automatic disk usage monitoring and persistent metadata handling for secure, optimized file management.
+– Tech: Python, Tkinter, GZIP, ZLIB, File Systems.
+Technical Skills
+Programming & Scripting Languages: C, C++, SQL, Java, HTML, CSS,
+Relevant Coursework: Data Structures & Algorithms, DBMS, Operating System , Big Data
+Visualization,Internet Of Things
+Embedded Systems & IoT Platforms: Arduino, ESP32, Raspberry Pi, Sensor Integration, GPIO
+Programming,ESP IDF
+Achievements
+– 1st Position in Lakshagriha 4.0 Hackathon at Dev Bhoomi Uttarakhand University, competing against 100+ teams
+including international participants.
+– 1st Prize Best Project Award in Project Display at Tech Urja 2K25, Khalsa College of Engineering, Amritsar.
+– 2nd Runner Up in Nationwide IT Hackathon at UNO Minda Hackathon 2025 for innovative smart resource
+management system.
+– Best Research Paper Award at RACCAI 2K24 International Conference for ”Prediction of Dengue using Machine
+Learning”.
+– Participated in Hack ’N Dore 48-Hour Hackathon and shortlisted in the top 80 teams out of 760 teams
